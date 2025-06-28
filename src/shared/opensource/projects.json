@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Weather Application",
+      "createdAt": "2024-12-01T16:26:54Z",
+      "url": "https://weatherappreact-441809.uw.r.appspot.com/",
+      "description": "A weather app built as the final project for a course, providing real-time weather updates.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "AthleteVerse (CerebralHacks 2024)",
+      "createdAt": "2024-11-01T16:26:54Z",
+      "url": "https://verath.vercel.app/",
+      "description": "A social media platform for athletes to connect and share their experiences.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JAVASCRIPT",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "WalkMate (SF Hacks 2025)",
+      "createdAt": "2025-01-08T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/VisionHelp",
+      "description": "VisionHelp is an assistive vision system using object detection and navigation to aid the visually impaired.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos-opencv"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Brain-Buster Quiz Application",
+      "createdAt": "2024-05-01T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/BrainBuster_Microservice",
+      "description": "A microservices-based quiz platform offering RESTful APIs for quiz creation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "MYSQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "SPRINGBOOT",
+          "iconifyClass": "logos-spring"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Twitter Clone",
+      "createdAt": "2024-09-10T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/twitC",
+      "description": "Developed a full-stack Twitter clone with Spring Boot (Java) & React",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MYSQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "SPRINGBOOT",
+          "iconifyClass": "logos-spring"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Be My Voice (HackSC 2024)",
+      "createdAt": "2023-11-20T16:26:54Z",
+      "url": "https://github.com/SujeetJawale/Sign_Language_Learn",
+      "description": "A web application that helps people with speech disabilities communicate using sign language.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JAVASCRIPT",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "logos-tensorflow"
+        }
+      ]
+    }
+  ]
+}
