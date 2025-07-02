@@ -9,7 +9,7 @@ const seo = {
   og: {
     title: "Nachiket Deshpande Portfolio",
     type: "website",
-    url: "http://sujeetjawale.me/",
+    url: "https://nachiket11.github.io/portfolio/",
   },
 };
 
