@@ -22,7 +22,7 @@ const greeting = {
     "Turning Vision into Action - Bridging Product, Process, and People",
   resumeLink:
     "https://drive.google.com/file/d/1vri9vI3Qj0q3ZOU91gU7OnG0QbttnNKe/view?usp=sharing",
-  portfolio_repository: "https://github.com/SujeetJawale/SJ_Portfolio/",
+  portfolio_repository: "https://github.com/Nachiket11/nachiket_portfolio/",
   githubProfile: "https://github.com/Nachiket11",
 };
 
@@ -39,12 +39,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  {
-    name: "Github",
-    link: "https://github.com/Nachiket11",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
-  },
+  // {
+  //   name: "Github",
+  //   link: "https://github.com/Nachiket11",
+  //   fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
+  //   backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
+  // },
 ];
 
 const skills = {
@@ -60,67 +60,24 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "Confluence",
+          fontAwesomeClassname: "simple-icons:confluence",
           style: {
-            color: "#E34F26",
+            color: "#172B4D", // Official Confluence dark blue
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "Trello",
+          fontAwesomeClassname: "simple-icons:trello",
           style: {
-            color: "#1572B6",
+            color: "#0052CC", // Trello/Atlassian blue
           },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "JIRA",
+          fontAwesomeClassname: "simple-icons:jira",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "React",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "Spring Boot",
-          fontAwesomeClassname: "simple-icons:springboot",
-          style: {
-            color: "#6DB33F",
-          },
-        },
-        {
-          skillName: "Hibernate",
-          fontAwesomeClassname: "simple-icons:hibernate",
-          style: {
-            color: "#a56642",
-          },
-        },
-        {
-          skillName: "Apache Kafka",
-          fontAwesomeClassname: "simple-icons:apachekafka",
-          style: {
-            color: "#231F20",
-          },
-        },
-        {
-          skillName: "Git",
-          fontAwesomeClassname: "simple-icons:git",
-          style: {
-            color: "#f05133",
-          },
-        },
-        {
-          skillName: "JUnit",
-          fontAwesomeClassname: "simple-icons:junit5",
-          style: {
-            color: "#25A162",
+            color: "#0052CC", // Jira's official brand color
           },
         },
       ],
@@ -135,45 +92,24 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "MYSQL",
-          fontAwesomeClassname: "simple-icons:mysql",
+          skillName: "SAP",
+          fontAwesomeClassname: "simple-icons:sap",
           style: {
-            color: "#4479A1",
+            color: "#0FAAFF", // SAP brand blue
           },
         },
         {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
+          skillName: "JIRA",
+          fontAwesomeClassname: "simple-icons:jira",
           style: {
-            color: "#336791",
+            color: "#0052CC", // Jira's official brand color
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "SPC for Excel",
+          fontAwesomeClassname: "simple-icons:microsoftexcel",
           style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
+            color: "#217346", // Excel green
           },
         },
       ],
@@ -188,6 +124,45 @@ const skills = {
         "Deployed SPC, Gauge R&R, and control charts to stabilize processes and reduce variation in assembly lines.",
       ],
       softwareSkills: [
+        {
+          skillName: "SolidWorks",
+          fontAwesomeClassname: "simple-icons:dassaultsystemes",
+          style: {
+            color: "#DA042E", // SolidWorks red
+          },
+        },
+        {
+          skillName: "SPC for Excel",
+          fontAwesomeClassname: "simple-icons:microsoftexcel",
+          style: {
+            color: "#217346", // Excel green
+          },
+        },
+        {
+          skillName: "ANSYS",
+          fontAwesomeClassname: "simple-icons:ansys",
+          style: {
+            color: "#FFB71B", // ANSYS yellow
+          },
+        },
+      ],
+    },
+    {
+      title: "Data Analytics & Reporting",
+      fileName: "CloudInfraImg",
+      skills: [
+        "Created project dashboards in JIRA/Confluence and Excel to improve visibility, reporting cadence, and decision-making.",
+        "Designed analytical models for QC, inventory optimization, and product development insights.",
+        "Used tools like Power BI, SQL, and Excel to analyze production metrics and quality outcomes.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "MYSQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#4479A1",
+          },
+        },
         {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
@@ -211,73 +186,20 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Data Analytics & Reporting",
-      fileName: "CloudInfraImg",
-      skills: [
-        "Created project dashboards in JIRA/Confluence and Excel to improve visibility, reporting cadence, and decision-making.",
-        "Designed analytical models for QC, inventory optimization, and product development insights.",
-        "Used tools like Power BI, SQL, and Excel to analyze production metrics and quality outcomes.",
-      ],
-      softwareSkills: [
-        {
-          skillName: "MYSQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#4479A1",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-      ],
-    },
   ],
 };
 
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
-      siteName: "Leetcode",
-      iconifyClassname: "simple-icons:leetcode",
-      style: {
-        color: "#ffa117",
-      },
-      profileLink: "https://leetcode.com/sjawale/",
-    },
+    // {
+    //   siteName: "Leetcode",
+    //   iconifyClassname: "simple-icons:leetcode",
+    //   style: {
+    //     color: "#ffa117",
+    //   },
+    //   profileLink: "https://leetcode.com/sjawale/",
+    // },
     // {
     //   siteName: "HackerRank",
     //   iconifyClassname: "simple-icons:hackerrank",
@@ -326,7 +248,7 @@ const certifications = {
     {
       title: "CAPM",
       subtitle: "- PMI",
-      logo_path: "telusko.png",
+      logo_path: "capm.png",
       certificate_link:
         "https://www.credly.com/badges/79950fd3-0480-4d22-bb34-be6dc94680f3/public_url",
       alt_name: "CAPM",
@@ -335,7 +257,7 @@ const certifications = {
     {
       title: "Lean Six Sigma Black Belt",
       subtitle: "- The Council for Six Sigma Certification",
-      logo_path: "LinkedinL.png",
+      logo_path: "cssc.jpg",
       certificate_link:
         "https://drive.google.com/file/d/1w68knFdrVxBn7LZ9UJy0tum41ZxHi_WZ/view?usp=drive_link",
       alt_name: "LSSBB",
@@ -344,7 +266,7 @@ const certifications = {
     {
       title: "ISO 9001:2015 Lead Auditor",
       subtitle: "- DNV",
-      logo_path: "LinkedinL.png",
+      logo_path: "dnv.png",
       certificate_link:
         "https://drive.google.com/file/d/1g8JvxX4IRVIzya_d-qOpRvlUAB3mzP7p/view?usp=drive_link",
       alt_name: "Java",
@@ -362,7 +284,7 @@ const certifications = {
     {
       title: "Google Cloud Fundamentals: Core Infrastructure",
       subtitle: " - Google Cloud Training",
-      logo_path: "MICH_logo.png",
+      logo_path: "google_cloud.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/records/6HZ7QN8VQ7AH",
       alt_name: "Coursera",
@@ -396,7 +318,7 @@ const experience = {
           title: "Quality Systems Engineering Intern",
           company: "Tesla",
           company_url: "https://www.tesla.com/",
-          logo_path: "stealth.jpeg",
+          logo_path: "tesla.jpg",
           duration: "May 2024 - August 2024",
           location: "Lathrop, California, US",
           description: [
@@ -411,7 +333,7 @@ const experience = {
           title: "Founding Member - Senior Manager",
           company: "ABS Certifications India Pvt. Ltd.",
           company_url: "https://abscipl.com/",
-          logo_path: "ptc_logo.jpg",
+          logo_path: "ABS.jpg",
           duration: "October 2021 - August 2023",
           location: "Pune, Maharashtra, India",
           description: [
@@ -426,7 +348,7 @@ const experience = {
           title: "TPM Intern",
           company: "TATA Motors",
           company_url: "https://www.tatamotors.com/",
-          logo_path: "ptc_logo.jpg",
+          logo_path: "tata.png",
           duration: "August 2021 - October 2021",
           location: "Pune, Maharashtra, India",
           description: [
@@ -441,7 +363,7 @@ const experience = {
           company: "Ramasa Cranes Pvt. Ltd.",
           company_url:
             "https://www.linkedin.com/company/ramasa-cranes-private-limited/",
-          logo_path: "KSI_logo.jpg",
+          logo_path: "ramasa_cranes_private_limited_logo.jpg",
           duration: "Octrober 2020 - July 2021",
           location: "Pune, Maharashtra, India",
           description: [
@@ -456,7 +378,7 @@ const experience = {
           company: "SAM Integrations India Pvt. Ltd.",
           company_url:
             "https://www.linkedin.com/company/sam-integration/about/",
-          logo_path: "TUV_logo.jpeg",
+          logo_path: "sam_integrations_private_limited_logo.jpg",
           duration: "August 2020 - October 2020",
           location: "Pune, Maharashtra, India",
           description: [
@@ -510,7 +432,7 @@ const experience = {
         {
           title: "Volleyball",
           company: "",
-          logo_path: "BGMI_logo.jpg",
+          logo_path: "volleyball.jpg",
           description:
             "I enjoy playing Volleyball. I have participated State and National level tournaments.",
           color: "#D83B01",
@@ -518,7 +440,7 @@ const experience = {
         {
           title: "Trekking",
           company: "",
-          logo_path: "TREK_logo.jpg",
+          logo_path: "trekking.jpg",
           description:
             "Always been a Nature Lover. On weekends, I love going on long Treks with my friends. We all trek for different reasons, and sometimes for all the reasons: fun, adventure, to bond with friends, to relax, meditation, to make the commute more interesting,. The reasons are infinite.",
           color: "#D83B01",
@@ -562,7 +484,9 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "pp.png",
     description:
-      "Open to work as a Project Manager, New Product Introduction (NPI) Engineer, or Quality Engineer. You can get in touch with me on my email :)",
+      "Open to work as a Project Manager, New Product Introduction (NPI) Engineer, or Quality Engineer.",
+      description2: "You can get in touch with me on my email :)",
+
   },
 
   addressSection: {
