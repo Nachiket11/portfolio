@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "http://SujeetJawale.github.io/SJ_Portfolio",
+  "homepage": "https://Nachiket11.github.io/portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
@@ -42,7 +42,7 @@
   "devDependencies": {
     "@iconify/icons-logos": "^1.0.9",
     "@iconify/react": "^1.1.1",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
