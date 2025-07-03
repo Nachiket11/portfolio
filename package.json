@@ -2,10 +2,11 @@
   "private": true,
   "name": "port",
   "version": "0.1.0",
+  "homepage": "https://nachiket11.github.io/portfolio/",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
-    "deploy": "npx gh-pages -d build",
+    "deploy": "gh-pages --add -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
     "test": "react-scripts test"

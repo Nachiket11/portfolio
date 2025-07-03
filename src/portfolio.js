@@ -17,12 +17,12 @@ const seo = {
 const greeting = {
   title: "Hi, I’m Nachiket",
   logo_name: "Nachiket Deshpande",
-  nickname: "Project Manager – NPI, Quality Systems & Ops",
+  nickname: "Project Manager – NPI, Quality & Ops",
   subTitle:
     "Turning Vision into Action - Bridging Product, Process, and People",
   resumeLink:
     "https://drive.google.com/file/d/1vri9vI3Qj0q3ZOU91gU7OnG0QbttnNKe/view?usp=sharing",
-  portfolio_repository: "https://github.com/Nachiket11/nachiket_portfolio/",
+  portfolio_repository: "https://github.com/Nachiket11/portfolio/",
   githubProfile: "https://github.com/Nachiket11",
 };
 
@@ -485,8 +485,7 @@ const contactPageData = {
     profile_image_path: "pp.png",
     description:
       "Open to work as a Project Manager, New Product Introduction (NPI) Engineer, or Quality Engineer.",
-      description2: "You can get in touch with me on my email :)",
-
+    description2: "You can get in touch with me on my email :)",
   },
 
   addressSection: {

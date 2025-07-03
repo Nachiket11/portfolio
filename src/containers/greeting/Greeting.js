@@ -31,7 +31,7 @@ export default function Greeting(props) {
                 <Button
                   text="📧 Contact Me"
                   newTab={false}
-                  href={"/SJ_Portfolio/#/contact"}
+                  href={"/portfolio/#/contact"}
                   theme={theme}
                   className="portfolio-repo-btn"
                 />
