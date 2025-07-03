@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Pro-Fit Smart Training Vest",
+      "createdAt": "2024-12-01T16:26:54Z",
+      "url": "",
+      "description": "Piloted Smart Vest with EMG/ECG/IMU sensors, through athlete driven design.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Bluetooth",
+          "iconifyClass": "logos-bluetooth"
+        },
+        {
+          "name": "Arduino",
+          "iconifyClass": "logos-arduino"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Supply Chain Optimization - Museli",
+      "createdAt": "2024-05-01T16:26:54Z",
+      "url": "",
+      "description": "Managed production of 12 muesli SKUs, streamlining MRP/MPS to generate $6.39M.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "SAP",
+          "iconifyClass": "logos-sap"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "USC Housing App",
+      "createdAt": "2023-12-08T16:26:54Z",
+      "url": "",
+      "description": "Led USC housing project, driving risk assessment, NPV analysis, and OCM.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Trello",
+          "iconifyClass": "logos-trello"
+        }
+      ]
+    }
+  ]
+}
