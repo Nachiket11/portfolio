@@ -21,7 +21,7 @@ const greeting = {
   subTitle:
     "Turning Vision into Action - Bridging Product, Process, and People",
   resumeLink:
-    "https://drive.google.com/file/d/1vri9vI3Qj0q3ZOU91gU7OnG0QbttnNKe/view?usp=sharing",
+    "https://drive.google.com/file/d/1c7qHTSImS0WCCFBkq2yRNQOLF6nwxg4J/view?usp=sharing",
   portfolio_repository: "https://github.com/Nachiket11/portfolio/",
   githubProfile: "https://github.com/Nachiket11",
 };
@@ -315,7 +315,7 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Quality Systems Engineering Intern",
+          title: "TPM Quality Systems Engineering Intern",
           company: "Tesla",
           company_url: "https://www.tesla.com/",
           logo_path: "tesla.jpg",
@@ -330,7 +330,7 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "Founding Member - Senior Manager",
+          title: "Operations Manager",
           company: "ABS Certifications India Pvt. Ltd.",
           company_url: "https://abscipl.com/",
           logo_path: "ABS.jpg",
@@ -338,9 +338,11 @@ const experience = {
           location: "Pune, Maharashtra, India",
           description: [
             "Built ISO 9001, 13485, 14001 & IATF certification operations across 6 countries, managing 4100+ global clients.",
-            "Led QMS audits and CAPA for 80+ companies, achieving 30% reduction in quality process deviations.",
+            "Enhanced overall financial sustainability by aligning pricing models with long-term revenue goals, boosting profit margins by 15%.",
             "Implemented KPI dashboards and agile workflows, cutting project turnaround time by 15% and enhanced stakeholder alignment.",
+            "Spearheaded development of a custom ERP system, streamlining communications workflow, and cutting operational time by 65%.",
             "Streamlined global documentation and compliance with NABCB, ensuring 100% audit success rate.",
+            "Developed risk mitigation plans with client leadership during audits, reducing deviations by 23% and improving audit success rate.",
           ],
           color: "#0879bf",
         },
@@ -354,6 +356,7 @@ const experience = {
           description: [
             "Validated line processes with PFMEA, capability studies, and PPAP, ensuring robust pre-launch quality.",
             "Reduced engineering change delays by 28% through BOM optimization and PLM-based ECO tracking.",
+            "Managed change requests during pilot build, ensuring revisions were validated and communicated to teams with zero delays.",
             "Performed Gauge R&R and torque audits, enhancing data reliability and reduced process errors from 12% to 5%.",
           ],
           color: "#D83B01",
@@ -402,7 +405,7 @@ const experience = {
           duration: "August 2023 - May 2025",
           location: "Los Angeles, California",
           description:
-            " I organized various spiritual gatherings and meditation workshops, fostering community and personal growth. My role was pivotal in creating serene environments for attendees to explore mindfulness and inner peace.",
+            " I organized various gatherings and meditation workshops, fostering community and personal growth. My role was pivotal in creating serene environments for attendees to explore mindfulness and inner peace.",
           color: "#D83B01",
         },
         {
@@ -413,7 +416,7 @@ const experience = {
           duration: "June 2019 - June 2021",
           location: "Pune, Maharashtra, India",
           description:
-            "Manages and coordinates recruitment drives by meticulously organizing and overseeing every phase of the process. This includes scheduling and conducting preliminary meetings, administering aptitude tests to assess candidates' skills, and facilitating comprehensive interviews. Works closely with a team of volunteers to ensure all logistical aspects are handled efficiently, from the initial outreach to potential candidates through to the final panel interviews. This role involves coordinating various elements such as preparing assessment materials, arranging interview schedules, and ensuring effective communication between candidates and the recruitment team. By managing these processes, the aim is to create a seamless and efficient recruitment experience, ultimately attracting and selecting the best talent for the organization.",
+            "Managed and coordinated recruitment drives for 50+ companies by meticulously organizing and overseeing every phase of the recruitment process. This includes scheduling and conducting preliminary meetings, administering aptitude tests to assess candidates' skills, and facilitating comprehensive interviews. Worked closely with a team of volunteers to ensure all logistical aspects are handled efficiently, from the initial outreach to potential candidates through to the final panel interviews. This role involved coordinating various elements such as preparing assessment materials, arranging interview schedules, and ensuring effective communication between candidates and the recruitment team. By managing these processes, the aim was to create a seamless and efficient recruitment experience, ultimately attracting and selecting the best talent for the organization.",
           color: "#D83B01",
         },
       ],
